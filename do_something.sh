@@ -2,5 +2,5 @@
 
 for i in {0..10}; do
     echo "$i"
-    sleep 1
+    sleep 0.125
 done
